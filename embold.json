@@ -16,6 +16,7 @@
                     "baseDir": "",
                     "exclusions": [
                         "_init_.py",
+                        ".py",
                         "test"
                     ]
                 }
